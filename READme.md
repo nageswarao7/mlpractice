@@ -5,8 +5,6 @@ This project provides a Flask-based API for sentiment analysis using a pre-train
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Example Request](#example-request)
 
 ## Features
